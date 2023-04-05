@@ -1,3 +1,5 @@
 # Biomechanics-AI
 
-ghdn!
+안녕하세요 바이오메카닉스 동아리입니다.
+
+## 4월 5일 - Deep Learning Framework : Tensorflow
