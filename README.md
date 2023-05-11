@@ -8,7 +8,13 @@
 
 
 
-## 4월 5일 - Deep Learning Framework : Tensorflow
+## 5월 11일 - Deep Learning Framework : Tensorflow
+
+Dataset
+
+https://drive.google.com/file/d/1zsdCMukaL56i0GrlIy1o6m7ckDIZjgC5/view?usp=sharing
+
+
 Only Dense
 
 https://github.com/ReallyRally/Biomechanics-AI/blob/main/BMEAI_%EC%A0%9C7_1%ED%99%94_%5BTensorflow%5DDogs_vs_Cats_Dense.ipynb
